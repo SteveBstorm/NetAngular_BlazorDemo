@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gAXm/eM7LSVnCdXgv29ly7B0E4sJSMK20+OwU5OiBA8=",
+  "Hash": "KLOKdGPNtZzyCm/o6jsLmvTZ5bi7WNyILnjssSa+Zfs=",
   "Source": "BlazorDemo.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7172,6 +7172,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\wwwroot\\script\\toto.js",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "script/toto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script\\toto.js"
     }
   ]
 }

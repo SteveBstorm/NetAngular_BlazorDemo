@@ -38,8 +38,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vMlxFbmZhbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo3/Demo3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vM1xEZW1vMy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo4/Demo4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNFxEZW1vNC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo5/Demo5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNVxEZW1vNS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Details.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo1/Questions.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzFcUXVlc3Rpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo1/Quizz.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzFcUXVpenoucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/FetchData.razor]

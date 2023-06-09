@@ -50,6 +50,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNVxEZW1vNS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNlxEZW1vNi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6Bis.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNlxEZW1vNkJpcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6Ter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNlxEZW1vNlRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Details.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

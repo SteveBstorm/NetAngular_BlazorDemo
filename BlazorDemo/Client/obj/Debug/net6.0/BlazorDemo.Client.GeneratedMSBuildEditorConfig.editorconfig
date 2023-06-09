@@ -62,6 +62,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzFcUXVpenoucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Detail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzJcRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Exo2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzJcRXhvMi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Formulaire.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzJcRm9ybXVsYWlyZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

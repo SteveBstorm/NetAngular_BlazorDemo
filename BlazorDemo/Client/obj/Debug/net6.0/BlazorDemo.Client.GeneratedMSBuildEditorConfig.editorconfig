@@ -11,109 +11,113 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorDemo.Client
 build_property.RootNamespace = BlazorDemo.Client
-build_property.ProjectDir = C:\Users\elean\source\repos\NetAngular\BlazorDemo\BlazorDemo\Client\
+build_property.ProjectDir = C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\elean\source\repos\NetAngular\BlazorDemo\BlazorDemo\Client
+build_property.MSBuildProjectDirectory = C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/App.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Counter.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo1/Demo1.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo1/Demo1.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vMVxEZW1vMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo2/Demo2.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo2/Demo2.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vMlxEZW1vMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo2/Enfant.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo2/Enfant.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vMlxFbmZhbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo3/Demo3.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo3/Demo3.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vM1xEZW1vMy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo4/Demo4.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo4/Demo4.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNFxEZW1vNC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo5/Demo5.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo5/Demo5.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNVxEZW1vNS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNlxEZW1vNi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6Bis.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6Bis.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNlxEZW1vNkJpcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6Ter.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo6/Demo6Ter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vNlxEZW1vNlRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Details.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Demo/Demo7/Demo7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtb1xEZW1vN1xEZW1vNy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Details.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo1/Questions.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo1/Questions.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzFcUXVlc3Rpb25zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo1/Quizz.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo1/Quizz.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzFcUXVpenoucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Detail.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Detail.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzJcRGV0YWlsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Exo2.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Exo2.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzJcRXhvMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Formulaire.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Exercices/Exo2/Formulaire.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpY2VzXEV4bzJcRm9ybXVsYWlyZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/FetchData.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/Index.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Pages/ListeProduits.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Pages/ListeProduits.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGVQcm9kdWl0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Shared/FicheProduit.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Shared/FicheProduit.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZpY2hlUHJvZHVpdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Shared/SurveyPrompt.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/_Imports.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Shared/MainLayout.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-soaxsd67nm
 
-[C:/Users/elean/source/repos/NetAngular/BlazorDemo/BlazorDemo/Client/Shared/NavMenu.razor]
+[C:/Users/elean/source/NetFS23/NetAngular_BlazorDemo/BlazorDemo/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-51hdibh255

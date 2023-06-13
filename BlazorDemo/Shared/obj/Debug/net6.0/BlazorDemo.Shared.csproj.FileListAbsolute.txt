@@ -10,3 +10,15 @@ C:\Users\elean\source\repos\NetAngular\BlazorDemo\BlazorDemo\Shared\obj\Debug\ne
 C:\Users\elean\source\repos\NetAngular\BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\refint\BlazorDemo.Shared.dll
 C:\Users\elean\source\repos\NetAngular\BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.pdb
 C:\Users\elean\source\repos\NetAngular\BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\ref\BlazorDemo.Shared.dll
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\bin\Debug\net6.0\BlazorDemo.Shared.deps.json
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\bin\Debug\net6.0\BlazorDemo.Shared.dll
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\bin\Debug\net6.0\BlazorDemo.Shared.pdb
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.csproj.AssemblyReference.cache
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.AssemblyInfo.cs
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.dll
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\refint\BlazorDemo.Shared.dll
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\BlazorDemo.Shared.pdb
+C:\Users\elean\source\NetFS23\NetAngular_BlazorDemo\BlazorDemo\Shared\obj\Debug\net6.0\ref\BlazorDemo.Shared.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
       "projectName": "BlazorDemo.Shared",
-      "projectPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
+      "projectPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
       "packagesPath": "C:\\Users\\elean\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

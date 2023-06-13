@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PSC4sNovkJ79A9Sh/29LbBdQ6i5Gz3y83/H6GVJpyTIXrFkBdGu1tLj2L6Bc8/LHotbklUeH2GCTDiIZRXge9Q==",
+  "dgSpecHash": "Kcwrm5SsyMh2XIApqYst2b+4sGZkyjt8s9KTgpy1AwORj9N++oCMRcCEs+1dcxCxc/G8qHrQjCXI5bVGMH2qkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
+  "projectFilePath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

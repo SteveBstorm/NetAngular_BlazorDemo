@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj": {}
+    "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj": {
+    "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj",
+        "projectUniqueName": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj",
         "projectName": "BlazorDemo.Client",
-        "projectPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj",
+        "projectPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj",
         "packagesPath": "C:\\Users\\elean\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\obj\\",
+        "outputPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj": {
-                "projectPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj"
+              "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj"
               }
             }
           }
@@ -57,6 +57,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.13, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [
@@ -84,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj": {
+    "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj",
+        "projectUniqueName": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj",
         "projectName": "BlazorDemo.Server",
-        "projectPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj",
+        "projectPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Server\\BlazorDemo.Server.csproj",
         "packagesPath": "C:\\Users\\elean\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Server\\obj\\",
+        "outputPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,11 +121,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj": {
-                "projectPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj"
+              "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj": {
+                "projectPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Client\\BlazorDemo.Client.csproj"
               },
-              "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj": {
-                "projectPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj"
+              "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj"
               }
             }
           }
@@ -160,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj": {
+    "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
         "projectName": "BlazorDemo.Shared",
-        "projectPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
+        "projectPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\BlazorDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\elean\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elean\\source\\repos\\NetAngular\\BlazorDemo\\BlazorDemo\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\elean\\source\\NetFS23\\NetAngular_BlazorDemo\\BlazorDemo\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,9 +12,9 @@
     <Formulaire NotifyNewGame="AddGame" />
 </div>
 
-@if(SelectedGame is not null) {
+@if(SelectedGame > 0) {
     <div style="border: 2px black solid; ">
-        <Detail CurrentGame="SelectedGame" />
+        <Detail CurrentId="SelectedGame" />
     </div>
 }
 

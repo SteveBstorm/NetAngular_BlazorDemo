@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.SignalR.Client;
 using System.Net.Http.Json;
 
 namespace BlazorDemo.Client.Pages.Exercices.Exo2
@@ -10,10 +11,23 @@ namespace BlazorDemo.Client.Pages.Exercices.Exo2
 
         [Inject]
         public HttpClient client { get; set; }
+        public HubConnection gameHub { get; set; }
 
         protected override async Task OnInitializedAsync()
         {
             Games = await client.GetFromJsonAsync<List<Game>>("game");
+
+            gameHub = new HubConnectionBuilder().WithUrl(new Uri("https://localhost:7275/gamehub")).Build();
+
+            gameHub.On("newGame", async () =>
+            {
+                Console.WriteLine("tu passes ici au moins ?");
+                Games = await client.GetFromJsonAsync<List<Game>>("game");
+                StateHasChanged();
+            });
+            
+            await gameHub.StartAsync();
+            //await gameHub.SendAsync("NotifyNewGame");
         }
 
         public Exo2()
